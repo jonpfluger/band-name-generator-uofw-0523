@@ -1,3 +1,3 @@
 # Band Name Generator
 
-A simple nodejs band name generator.
+A simple NodeJS band name generator!
